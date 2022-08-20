@@ -1,0 +1,15 @@
+{
+  "name": "discordscenechanger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DiscordSceneChanger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Vidler",
+  "license": "MIT",
+  "dependencies": {
+    "obs-websocket-js": "^5.0.1",
+    "puppeteer": "^16.2.0"
+  }
+}
